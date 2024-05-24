@@ -3,7 +3,7 @@ var flag;
 
 
 
-// showing orange light *********
+// showing orange light **********
 function showOrangeLight() {
     document.querySelector(".red").style.display = "none";
     document.querySelector(".orange").style.display = "block";
